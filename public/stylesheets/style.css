@@ -1,0 +1,30 @@
+.header{
+  padding: 20px;
+}
+
+.navbar-brand{
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-size: 20px;
+}
+
+.product-cards{
+  padding: 30px;
+  margin-left: 30px;
+}
+
+.card{
+  text-align: center;
+}
+
+#login-text{
+  font-weight: normal;
+  font-size: 30px;
+}
+
+#login-div{
+  margin-bottom: 10px;
+}
+
+#login-section{
+  margin-top: 50px;
+}
